@@ -90,12 +90,9 @@ plt.title('Total de vendas de cada cidade')
 plt.show()
 #mostrando o total de produtos vendidos por cidade
 
-#fazer grafico de produtos e quantidade de cada
 plt.bar(vendas.index, vendas.values)
 plt.xlabel('Produto')
 plt.ylabel('Quantidade')
 plt.title('Quantidade de produtos vendidos')
 plt.xticks(rotation=85)
 plt.show()
-
-#consertar indices reptidos, 60 e 59 ou 50 alguma coisa
