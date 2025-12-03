@@ -1,0 +1,63 @@
+InvoiceID,Date,City,Category,Product,UnitPrice,Quantity,Total,PaymentMethod,CustomerGender
+INV001,20240103,Campo Grande,Bebidas,Refrigerante Lata,6.50,3,19.50,Cartão,Masculino
+INV002,2024-01-04,Campo Grande,Padaria,Pão Francês,0.60,10,6.00,Dinheiro,Feminino
+INV003,2024-01-06,Campo Grande,Frios,Queijo Mussarela,32.00,1,32.00,Cartão,Feminino
+INV004,2024-01-06,Campo Grande,Bebidas,Suco de Laranja,8.90,2,17.80,Pix,Masculino
+INV005,2024-01-08,Campo Grande,Hortifruti,Maçã Gala,7.50,4,30.00,Pix,Feminino
+INV006,2024-01-09,Campo Grande,Limpeza,Detergente,2.50,3,7.50,Dinheiro,Masculino
+INV007,2024-01-10,Campo Grande,Carnes,Frango Resfriado,15.90,2,31.80,Cartão,Feminino
+INV008,2024-01-11,Dourados,Padaria,Bolo Simples,12.00,1,12.00,Pix,Masculino
+INV009,2024-01-12,Dourados,Bebidas,"Água Mineral 1.5L",3.20,2,6.40,Cartão,Feminino
+INV010,2024-01-14,Dourados,Hortifruti,Banana Nanica,4.00,6,24.00,Dinheiro,Masculino
+INV011,2024-01-15,Dourados,Limpeza,Água Sanitária,4.50,1,4.50,Pix,Feminino
+INV012,2024-01-17,null,Frios,Presunto,28.00,1,28.00,Cartão,Masculino
+INV013,2024-01-18,Três Lagoas,null,Refrigerante 600ml,4.80,6,28.80,Pix,Feminino
+INV014,2024-01-19,Três Lagoas,Carnes,null,28.50,1,28.50,Cartão,Masculino
+INV015,2024-01-21,Três Lagoas,Padaria,Pão de Queijo,null,8,9.60,Dinheiro,Feminino
+INV016,2024-01-22,Três Lagoas,Hortifruti,Abacaxi,6.90,null,13.80,Pix,Masculino
+INV017,2024-01-23,Três Lagoas,Limpeza,Amaciante,12.00,1,null,Cartão,Feminino
+INV018,2024-01-25,Campo Grande,Frios,Queijo Prato,33.00,1,33.00,null,Masculino
+INV019,2024-01-26,Campo Grande,Bebidas,Café 500g,null,null,null,Dinheiro,null
+INV020,2024-01-27,Campo Grande,Hortifruti,Tomate,7.90,3,23.70,Cartão,Masculino
+INV021,2024-01-28,Campo Grande,Carnes,Bisteca Suína,18.00,2,36.00,Pix,Feminino
+INV022,2024-01-29,Campo Grande,Bebidas,Refrigerante 2L,8.50,1,null,Cartão,Masculino
+INV023,2024-01-29,Dourados,Padaria,Croissant,4.50,2,null,Pix,Feminino
+INV024,2024-01-30,Dourados,Frios,Peito de Peru,34.00,1,34.00,Pix,Masculino
+INV025,2024-01-30,Campo Grande,Limpeza,Desinfetante,5.90,1,5.90,Dinheiro,Feminino
+INV026,2024-02-01,Campo Grande,Hortifruti,Laranja,4.50,5,22.50,Cartão,Masculino
+INV027,2024-02-02,Campo Grande,Carnes,Picanha Fatiada,59.90,1,59.90,Pix,Feminino
+INV028,2024-02-03,Campo Grande,Bebidas,Energetico,9.90,2,19.80,Pix,Masculino
+INV029,2024-02-04,Dourados,Padaria,Biscoito Caseiro,9.00,1,9.00,Cartão,Feminino
+INV030,2024-02-06,Dourados,Hortifruti,Cenoura,4.20,3,12.60,Dinheiro,Masculino
+INV031,2024-02-07,Dourados,Carnes,Coxinha da Asa,14.00,2,28.00,Cartão,Feminino
+INV032,2024-02-08,Dourados,Limpeza,Esponja,1.80,2,3.60,Pix,Masculino
+INV033,2024-02-09,Três Lagoas,Bebidas,Chá Gelado,6.00,2,12.00,Pix,Feminino
+INV034,2024-02-11,Três Lagoas,Padaria,Torta Doce,15.00,1,15.00,Dinheiro,Masculino
+INV035,2024-02-11,Três Lagoas,Hortifruti,Alface,3.50,2,7.00,Cartão,Feminino
+INV036,2024-02-12,Três Lagoas,Limpeza,Sabão em Barra,2.20,3,6.60,Pix,Masculino
+INV037,2024-02-13,Campo Grande,Frios,Queijo Minas,30.00,1,30.00,Cartão,Feminino
+INV038,2024-02-14,Campo Grande,Hortifruti,Morango,9.90,1,9.90,Pix,Masculino
+INV039,2024-02-15,Campo Grande,Bebidas,Refrigerante Lata,6.50,4,26.00,Dinheiro,Feminino
+INV040,2024-02-15,Campo Grande,Carnes,Fraldinha,42.90,1,42.90,Cartão,Masculino
+INV041,2024-02-16,Dourados,Padaria,Pão Integral,1.00,6,6.00,Pix,Feminino
+INV042,2024-02-17,Dourados,Frios,Queijo Coalho,35.00,1,35.00,Dinheiro,Masculino
+INV043,2024-02-18,Três Lagoas,Hortifruti,Uva,12.00,1,12.00,Cartão,Feminino
+INV044,2024-02-19,Três Lagoas,Bebidas,Água com Gás,3.50,3,10.50,Pix,Masculino
+INV045,2024-02-20,Três Lagoas,Limpeza,Sabão Líquido,11.00,1,11.00,Cartão,Feminino
+INV046,2024-02-21,Campo Grande,Padaria,Biscoito Salgado,3.20,3,9.60,Dinheiro,Masculino
+INV047,2024-02-22,Campo Grande,Hortifruti,Melancia,19.00,1,19.00,Pix,Feminino
+INV048,2024-02-23,Dourados,Carnes,Linguiça Toscana,17.00,2,34.00,Cartão,Masculino
+INV049,2024-02-24,Dourados,Bebidas,Refrigerante 600ml,4.80,12,57.60,Pix,Feminino
+INV050,2024-02-25,Três Lagoas,Frios,Requeijão,8.90,2,17.80,Cartão,Masculino
+INV051,2024-02-26,Três ,Hortifruti,Limão,3.90,4,15.60,Pix,Feminino
+INV052,2024-02-27,Campo Grande,Limpeza,Sabonete,2.60,3,7.80,Dinheiro,Masculino
+INV053,2024-02-28,Campo Grande,Carnes,Costela Bovina,26.00,1,26.00,Pix,Feminino
+INV054,2024-02-28,Campo Grande,Padaria,Pão Doce,1.10,5,5.50,Cartão,Masculino
+INV055,2024-02-29,Dourados,Hortifruti,Abobrinha,4.00,3,12.00,Dinheiro,Feminino
+INV056,2024-03-01,Dourados,Limpeza,Multiuso,5.50,1,5.50,Pix,Masculino
+INV057,2024-03-02,Três Lagoas,Carnes,Peito de Frango,12.00,2,24.00,Cartão,Feminino
+INV058,2024-03-03,Três Lagoas,Bebidas,Chá Mate,5.00,2,10.00,Pix,Masculino
+INV059,2024-03-04,Campo Grande,Frios,Queijo Parmesão,45.00,1,45.00,Cartão,Feminino
+INV060,2024-03-05,Campo Grande,Hortifruti,Cebola,4.10,3,12.30,Pix,Masculino
+INV060,2024-03-05,Campo Grande,Hortifruti,Cebola,4.10,3,12.30,Pix,Masculino
+INV059,2024-03-04,Campo Grande,Frios,Queijo Parmesão,45.00,1,45.00,Cartão,Feminino
